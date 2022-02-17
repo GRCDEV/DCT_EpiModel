@@ -1,4 +1,4 @@
-# Epidemic Model for Evaluating Digital Control Tracing
+# Epidemic Model for Evaluating Digital Control Tracing
 
 This repository contains the Matlab scripts and functions for the numerical solution of the 
 epidemic model developed to evaluate quantitively the effectiveness of digital contact tracing apps.
